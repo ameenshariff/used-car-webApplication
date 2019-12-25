@@ -1,0 +1,21 @@
+insert into vehicle_garage(vehicle_number,brand,model,registration_date,price,colour,is_ac,is_manual,city,is_sold)
+values
+('KA-07-2890','Suzuki','Baleno','2018-06-12',1250000,'Blue',true,true,'Bangalore',false),
+('KA-07-1290','Toyota','Innova','2017-06-12',1630000,'Silver',true,true,'Mysore',false),
+('KA-07-1188','Toyota','Qualis','2019-06-12',500000,'Maroon',false,true,'Bangalore',false),
+('KA-07-2267','Hyundai','Santro','2018-06-12',380000,'Green',false,true,'Mysore',false),
+('KA-04-7756','Hyundai','Creta','2017-06-12',1620000,'Red',true,true,'Chennai',false),
+('KA-04-1122','Maruthi','Swift','2019-06-12',500000,'Red',true,true,'Bangalore',false),
+('KA-04-6677','VolksWagen','Polo','2016-06-12',380000,'White',true,true,'Mysore',false),
+('KA-03-7766','Toyota','Fortuner','2017-06-12',2300000,'Black',true,true,'Hyderabad',false),
+('KA-07-6453','Mahindra','XUV500','2018-06-12',1670000,'Black',true,true,'Hyderabad',false),
+('KA-07-2290','Renault','KWID','2019-06-12',450000,'Gray',true,true,'Chennai',false),
+('KA-04-7056','Toyota','Corolla','2016-06-12',1625000,'Gray',true,true,'Bangalore',false),
+('KA-04-1112','Hyundai','i20','2017-06-12',300000,'Red',true,true,'Bangalore',false),
+('KA-04-6077','Ford','Endeavour','2018-06-12',2575000,'White',true,true,'Bangalore',false),
+('KA-03-1190','Hyundai','Santro','2018-06-12',380000,'Maroon',true,true,'Chennai',false),
+('KA-03-9910','Toyota','Innova','2019-06-12',1580000,'Black',true,false,'Chennai',false),
+('KA-02-1066','Maruthi','Swift','2019-06-12',380000,'Red',true,true,'Hyderabad',false),
+('KA-02-4000','Toyota','Innova','2018-06-12',1500000,'White',true,false,'Mysore',false),
+('KA-05-8888','Honda','Jazz','2018-06-12',576000,'Black',true,true,'Hyderabad',false),
+('KA-09-3344','Ford','EcoSport','2016-06-12',675000,'Titanium',true,true,'Mysore',false);
